@@ -1,0 +1,111 @@
+{
+	"data": [
+		{
+			"id": "prod$_01",
+			"name": "Coffee Chair Table Set",
+			"description": "Garden furniture set having chairs with cushions for each and a table with glass on top and comes with the size of (30 Inch X 30 Inch).",
+			"inTheBox": ["Table 1", "Chair 4"],
+			"rating": 3.5,
+			"price": 15000,
+			"InStock": true,
+			"itemWeigth": "20Kg",
+			"image": {
+				"main": "/assets/product-1/product.jpg",
+				"others": {
+					"0": "/assets/product-1/product-view.jpg",
+					"1": "/assets/product-1/product-table-view.jpg",
+					"2": "/assets/product-1/product-chair-view.jpg"
+				}
+			}
+		},
+		{
+			"id": "prod$_02",
+			"name": "Wooden Wall Shelf",
+			"description": "This is a 3 Tier Shelf made up of Laminated Engineered Wood which is scratch resistant, easy to clean. It gives a stylish matte look. It has a classy brown colour that will match with any background.",
+			"inTheBox": ["Hardware", "Assembly Instructions"],
+			"rating": 4.2,
+			"price": 500,
+			"InStock": true,
+			"itemWeigth": "1.7Kg",
+			"image": {
+				"main": "/assets/product-2/product.jpg",
+				"others": {
+					"0": "/assets/product-2/product-on-wall.jpg",
+					"1": "/assets/product-2/product-dim-view.jpg"
+				}
+			}
+		},
+		{
+			"id": "prod$_03",
+			"name": "Wooden Showcase Organizer",
+			"description": "Large storage bookcase featuring six open shelving spaces and provides ample space for placing and organizing your books, plants, and collections.",
+			"inTheBox": ["6 Layer book case"],
+			"rating": 4.0,
+			"price": 2800,
+			"InStock": true,
+			"itemWeigth": "9.7Kg",
+			"image": {
+				"main": "/assets/product-3/product.jpg",
+				"others": {
+					"0": "/assets/product-3/product-view.jpg",
+					"1": "/assets/product-3/product-empty-view.jpg",
+					"2": "/assets/product-3/product-dim.jpg"
+				}
+			}
+		},
+		{
+			"id": "prod$_04",
+			"name": "Mini Storage Cabinet",
+			"description": "Made of 100% virgin plastic, provides the ultimate strength and durability to the product, safe and non-toxic, highest quality of plastic is used with rigorous safety tests, high load bearing capacity quick and easy to assemble.",
+			"inTheBox": ["Storage unit"],
+			"rating": 4.1,
+			"price": 2100,
+			"InStock": true,
+			"itemWeigth": "6Kg",
+			"image": {
+				"main": "/assets/product-4/product.jpg",
+				"others": {
+					"0": "/assets/product-4/product-view.jpg",
+					"1": "/assets/product-4/product-open-view.jpg",
+					"2": "/assets/product-4/product-dim-view.jpg"
+				}
+			}
+		},
+		{
+			"id": "prod$_05",
+			"name": "Ultra Soft Leatherette Bean Bag",
+			"description": "This bean bag is a space-saving seating option, especially in small living spaces or apartments where bulky furniture may not fit comfortably. This bean bag is designed according to your body shape, providing a comfortable and cozy sitting experience.",
+			"inTheBox": ["Beans Bag Cover", "Footstool Cover", "Cushion Cover"],
+			"rating": 3.5,
+			"price": 950,
+			"InStock": true,
+			"itemWeigth": "1Kg",
+			"image": {
+				"main": "/assets/product-5/product.jpg",
+				"others": {
+					"0": "/assets/product-5/product-close-up-view.jpg",
+					"1": "/assets/product-5/product-pocket-view.jpg",
+					"2": "/assets/product-5/product-leg-rest-view.jpg"
+				}
+			}
+		},
+		{
+			"id": "prod$_06",
+			"name": "Wall Mounted Table",
+			"description": "Solid Wall Mounted Folding round corner Study Table is an incredible space-saver folding table. This sturdy and durable folding shelf wall mounted table, wall mount foldable table is multi-functional folding wall shelf, convenient to use, and stylish.",
+			"inTheBox": ["Table Hardware", "Skrews", "Assembly Instructions"],
+			"rating": 5.0,
+			"price": 2700,
+			"InStock": true,
+			"itemWeigth": "4Kg",
+			"image": {
+				"main": "/assets/product-6/product.jpg",
+				"others": {
+					"0": "/assets/product-6/product-view.jpg",
+					"1": "/assets/product-6/product-drawer-view.jpg",
+					"2": "/assets/product-6/product-latch-view.jpg"
+				}
+			}
+		}
+	]
+}
